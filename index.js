@@ -14,8 +14,8 @@ function divide(a, b){
   return a / b;
 }
 
-function inc(107){
-  return 107++;
+function inc(n){
+  return n++;
 }
 
 function dec(n){
